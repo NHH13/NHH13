@@ -5,7 +5,7 @@
 ## About Me
 I am a data scientist passionate about finding innovative solutions to complex problems using the power of data. I have experience in data analysis, statistical modeling, and machine learning.
 
-![Data Science Banner](https://github.com/NHH13/NHH13/raw/main/9cbe01a1-2dff-4c92-9a36-6d1b8e88570a(2).png)
+![Data Science Banner](https://github.com/NHH13/NHH13/raw/main/banner.png)
 
 
 I'm looking for proyects <3 

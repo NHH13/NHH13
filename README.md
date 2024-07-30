@@ -2,7 +2,7 @@
 
 ## Naim Hariri Hernandez
 
-## About Me ![image](https://github.com/user-attachments/assets/04a980e5-64ff-4fbb-aec0-a4e03bbd33b2)
+## About Me
 
 I am a data scientist passionate about finding innovative solutions to complex problems using the power of data. I have experience in data analysis, statistical modeling, and machine learning.
 
@@ -11,7 +11,7 @@ I am a data scientist passionate about finding innovative solutions to complex p
 
 I'm looking for proyects <3 
 
-## Skills ![image](https://github.com/user-attachments/assets/bfd78e4c-650d-403e-8132-f5727145bfad)
+## Skills 
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,9 +25,11 @@ I'm looking for proyects <3
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
-## Contact ![image](https://github.com/user-attachments/assets/f104685f-f053-4b6f-86ab-3dc7355d8bc2)
+## Contact 
 
 
 - **Email**: naimhh13@gmail.com
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/naim-hh-data)
+
+
 

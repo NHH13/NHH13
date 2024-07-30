@@ -1,14 +1,11 @@
 ## Hi there 👋
 
-<!--
-**NHH13/NHH13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Naim Hariri Hernandez
 
 ## About Me
 I am a data scientist passionate about finding innovative solutions to complex problems using the power of data. I have experience in data analysis, statistical modeling, and machine learning.
 
-
+![Data Science Banner](https://github.com/tu-usuario/tu-repositorio/raw/main/path/to/your/image.png)
 
 ## Skills
 
@@ -23,9 +20,8 @@ I am a data scientist passionate about finding innovative solutions to complex p
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 
-
 ## Contact
 
 - **Email**: naimhh13@gmail.com
-- **LinkedIn**: [My LinkedIn Profile](www.linkedin.com/in/naim-hh-data)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/naim-hh-data)
 
